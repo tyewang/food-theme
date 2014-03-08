@@ -1,25 +1,17 @@
 Octopress Flat
 ==========
-Octopress Flat is a "Flat UI"-inspired theme for [Octopress](http://octopress.org). It is pretty rough at this point, and not thoroughly tested, so feel free to make improvements or let me know if you find anything broken.
-
-Ideally, it will eventually allow each post to have a unique color theme, but I have to figure out how to do that first.
-
-![Octopress Flat](/octopress-flat.png)
-
-Twitter: @alexharris6
+My fork of the Octopress Flat theme by Alex Harris.
 
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/alexharris/octopress-flat.git .themes/octopress-flat
+    $ git clone git://github.com/tyewang/octopress-flat.git .themes/octopress-flat
     $ rake install['octopress-flat']
     $ rake generate
 
 License
 -------
 (The MIT License)
-
-Copyright © 2013 Alex Harris
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
